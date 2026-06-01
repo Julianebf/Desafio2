@@ -2,4 +2,4 @@
 ### Notebook de detecção automática de trincas e fissuras em superfícies utilizando fine-tuning do YOLOv8n.
 
 Para acessar:
-1. Baixar o .ipynb pelo GitHub e abrir no Colab
+1. Baixar o .ipynb desse repositorio para visualizar
